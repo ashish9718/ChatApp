@@ -1,11 +1,12 @@
 # ChatApp
-
 **ChatApp** is an android app built using java and firebase.
 
-![https://github.com/ashish9718/app-screenshots](/chat app/1.jpg)
-![https://github.com/ashish9718/app-screenshots](/chat app/2.jpg)
-![https://github.com/ashish9718/app-screenshots](/chat app/3.jpg)
-![https://github.com/ashish9718/app-screenshots](/chat app/4.jpg)
-![https://github.com/ashish9718/app-screenshots](/chat app/5.jpg)
-![https://github.com/ashish9718/app-screenshots](/chat app/6.jpg)
-![https://github.com/ashish9718/app-screenshots](/chat app/7.jpg)
+<img src="1.jpg" height="650" width="300">
+<img src="2.jpg height="650" width="300">
+<img src="3.jpg" height="650" width="300">
+<img src="4.jpg" height="650" width="300">
+<img src="5.jpg" height="650" width="300">
+<img src="6.jpg" height="650" width="300">
+<img src="7.jpg" height="650" width="300">
+
+
